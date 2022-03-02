@@ -1,0 +1,36 @@
+digraph tree {
+    "0x1b3fffafec8" [label="name : 0a 
+value : 17 
+gradient_wrt_0a : 1 
+integral_to_0a : None 
+
+ADD"];
+    "0x1b3fffaff88" [label="name : 1a 
+value : 10 
+gradient_wrt_0a : 1 
+integral_to_0a : 120.0 
+
+MULTIPLY"];
+    "0x1b3ffd12088" [label="name : 2a 
+value : 2 
+gradient_wrt_0a : 5 
+integral_to_0a : 4 
+
+NONE"];
+    "0x1b3ffd12108" [label="name : 2b 
+value : 5 
+gradient_wrt_0a : 2 
+integral_to_0a : 25 
+
+NONE"];
+    "0x1b3ffd12188" [label="name : 1b 
+value : 7 
+gradient_wrt_0a : 1 
+integral_to_0a : 49 
+
+NONE"];
+    "0x1b3fffafec8" -> "0x1b3fffaff88" [dir=back];
+    "0x1b3fffafec8" -> "0x1b3ffd12188" [dir=back];
+    "0x1b3fffaff88" -> "0x1b3ffd12088" [dir=back];
+    "0x1b3fffaff88" -> "0x1b3ffd12108" [dir=back];
+}
