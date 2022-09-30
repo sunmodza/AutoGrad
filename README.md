@@ -1,5 +1,5 @@
 # AutoGrad
-Calculate Gradient Auto
+Calculate Gradient Automatically
 
 1. Auto-Generate Tree for gradient calculation
 ![image](https://user-images.githubusercontent.com/62195081/193295301-5365bb23-1df4-42ad-9bab-fcdbc1457b8b.png)
