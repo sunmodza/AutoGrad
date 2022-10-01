@@ -1,4 +1,4 @@
-ขอโทษครับเเนบ QR CODE ผิดไปจะมาโผล่ในหน้านี้เเทน ดังนั้นขอใช้ README ของ AUTO-GRAD เเทน portfolio เพื่อเป็นการเเก้ปัญหาเฉพาะหน้า
+# ขอโทษครับเเนบ QR CODE ผิดไปจะมาโผล่ในหน้านี้เเทน ดังนั้นขอใช้ README ของ AUTO-GRAD เเทน portfolio เพื่อเป็นการเเก้ปัญหาเฉพาะหน้า
 # โปรเจคการสร้างเกม WhiteLine
 https://github.com/sunmodza/WhiteLine
 ![image](https://user-images.githubusercontent.com/62195081/193410113-765d6883-5380-4011-a93e-7bf43392bde0.png)
